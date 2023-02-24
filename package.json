@@ -16,6 +16,6 @@
   },
   "homepage": "https://github.com/marcosvfranco/calculator-node-js#readme",
   "devDependencies": {
-    "jest": "^27.5.1"
+    "jest": "^29.4.3"
   }
 }

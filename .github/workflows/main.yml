@@ -2,7 +2,7 @@ name: jest test
 
 on: [push]
 jobs:
-jest-run :
+  jest-run:
     runs-on: ubuntu-latest
     name: Run all tests
     steps:
